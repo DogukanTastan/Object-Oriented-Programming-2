@@ -1,0 +1,12 @@
+6
+X X X X P X X X X X X 
+X X X P X . X X X X X 
+X X . X P X P X X X X 
+X . X . X . X P X X X 
+P X . X P X . X P X X 
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X X X X X X X X X X 
+X X X X X X X X X X X 
